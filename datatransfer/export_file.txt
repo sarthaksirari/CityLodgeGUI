@@ -1,0 +1,3 @@
+R_100:1:Standard Room:Available:AC, Cable TV, Wifi:R_100.jpg
+R_200:2:Standard Room:Available:fridge, e-kettle:R_200.jpg
+R_400:4:Standard Room:Available:AC, cable TV, Wifi:R_400.jpg
